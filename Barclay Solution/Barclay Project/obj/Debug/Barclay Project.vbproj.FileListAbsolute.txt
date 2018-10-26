@@ -1,0 +1,12 @@
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\bin\Debug\Barclay Project.exe.config
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\bin\Debug\Barclay Project.exe
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\bin\Debug\Barclay Project.pdb
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\bin\Debug\Barclay Project.xml
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay Project.vbprojAssemblyReference.cache
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay_Project.frmMain.resources
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay_Project.Resources.resources
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay Project.vbproj.GenerateResource.cache
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay Project.vbproj.CoreCompileInputs.cache
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay Project.exe
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay Project.xml
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap06\Barclay Solution\Barclay Project\obj\Debug\Barclay Project.pdb
